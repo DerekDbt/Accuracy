@@ -1,0 +1,7 @@
+﻿1. Start
+1. Right-handed turn until completion of full circle
+2. Left-handed turn until completion of full circle
+3. Repeat steps 2-3 four more times until 5 total completions
+4. Say “I am the winner”
+5. Ball goes multicolored for 5 seconds
+6. End
